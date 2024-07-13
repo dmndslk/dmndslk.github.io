@@ -1,0 +1,4 @@
+This is a Brave Creators publisher verification file.
+
+Domain: kohtz.fr
+Token: b8e9f93872f9fd6e779b8c41708df3a043b8d220b42806bb50d75c95520273a3
