@@ -1,12 +1,5 @@
 /**
  * demo.js
- * http://www.dmnd.com
- *
- * Licensed under the MIT license.
- * http://www.opensource.org/licenses/mit-license.php
- * 
- * Copyright 2017, dmnd
- * http://www.dmnd.com
  */
 {
 	setTimeout(() => document.body.classList.add('render'), 60);
